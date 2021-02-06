@@ -101,4 +101,3 @@ search_and_download(search_term=search_term, driver_path=DRIVER_PATH,number_imag
 
 
 
-print("This is the change in this project")
